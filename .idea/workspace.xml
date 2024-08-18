@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f95e2fb-371d-487c-9ac8-ec948e0dc84e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false">
+    <xdebug_debug_ports port="9003" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="myproject.loc" id="6ef3e8a1-510e-4140-96b4-f763b810c840" name="myproject.loc" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fl4zJxjQEa1xsrGOt6ZzvjSa6W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.test.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.test.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Remote Debug.XDebug.executor&quot;: &quot;Debug&quot;,
+    &quot;PHP Script.test.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pirat/GIT/WebStormProjects/yandex-test-site&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="PHP Remote Debug.XDebug">
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="XDebug" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="myproject.loc" session_id="PHPSTORM">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-b4dcf6bb9de9-com.jetbrains.php.sharedIndexes-PS-233.13135.108" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f95e2fb-371d-487c-9ac8-ec948e0dc84e" name="Changes" comment="" />
+      <created>1714362592865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714362592865</updated>
+      <workItem from="1714362593982" duration="191000" />
+      <workItem from="1714362797308" duration="1146000" />
+      <workItem from="1714364646449" duration="22000" />
+      <workItem from="1714368055826" duration="25000" />
+      <workItem from="1714368128324" duration="25000" />
+      <workItem from="1714368166738" duration="9000" />
+      <workItem from="1714369570442" duration="305000" />
+      <workItem from="1714369886640" duration="209000" />
+      <workItem from="1714370532307" duration="1139000" />
+      <workItem from="1714491167463" duration="249000" />
+      <workItem from="1714491426934" duration="321000" />
+      <workItem from="1714491787260" duration="172000" />
+      <workItem from="1714492386775" duration="373000" />
+      <workItem from="1714492928495" duration="1233000" />
+      <workItem from="1714756053613" duration="268000" />
+      <workItem from="1714756569147" duration="1047000" />
+      <workItem from="1714760392978" duration="647000" />
+      <workItem from="1714762751367" duration="635000" />
+      <workItem from="1714804757640" duration="666000" />
+      <workItem from="1718459235580" duration="1891000" />
+      <workItem from="1718461138023" duration="1699000" />
+      <workItem from="1718570839049" duration="1504000" />
+      <workItem from="1718658804266" duration="620000" />
+      <workItem from="1718775233836" duration="9991000" />
+      <workItem from="1718791801228" duration="1453000" />
+      <workItem from="1718860625317" duration="4623000" />
+      <workItem from="1718867627655" duration="5601000" />
+      <workItem from="1718915330857" duration="3011000" />
+      <workItem from="1718918893574" duration="1338000" />
+      <workItem from="1718920248841" duration="3088000" />
+      <workItem from="1718950735182" duration="501000" />
+      <workItem from="1718972028712" duration="633000" />
+      <workItem from="1718973642275" duration="2638000" />
+      <workItem from="1718976314748" duration="3604000" />
+      <workItem from="1719044182160" duration="9108000" />
+      <workItem from="1719092588448" duration="385000" />
+      <workItem from="1719092989597" duration="1237000" />
+      <workItem from="1719136656974" duration="875000" />
+      <workItem from="1719140326466" duration="3825000" />
+      <workItem from="1719144317937" duration="8420000" />
+      <workItem from="1719182886725" duration="322000" />
+      <workItem from="1719183221143" duration="20354000" />
+      <workItem from="1719225408141" duration="8055000" />
+      <workItem from="1719296280651" duration="27300000" />
+      <workItem from="1719360000771" duration="1738000" />
+      <workItem from="1719368452666" duration="50000" />
+      <workItem from="1719368524389" duration="1934000" />
+      <workItem from="1719490463990" duration="3922000" />
+      <workItem from="1719494498259" duration="17265000" />
+      <workItem from="1719526961298" duration="189000" />
+      <workItem from="1719527180635" duration="392000" />
+      <workItem from="1719530722237" duration="1692000" />
+      <workItem from="1719743615072" duration="6662000" />
+      <workItem from="1719760685586" duration="1830000" />
+      <workItem from="1719769840495" duration="4222000" />
+      <workItem from="1720006727428" duration="2755000" />
+      <workItem from="1720016335624" duration="3571000" />
+      <workItem from="1720028340440" duration="1152000" />
+      <workItem from="1720034313573" duration="2369000" />
+      <workItem from="1720058408576" duration="1378000" />
+      <workItem from="1720118436244" duration="670000" />
+      <workItem from="1720127601957" duration="1050000" />
+      <workItem from="1720128670416" duration="16503000" />
+      <workItem from="1720181426714" duration="7084000" />
+      <workItem from="1720190178390" duration="1382000" />
+      <workItem from="1720388882062" duration="510000" />
+      <workItem from="1720389469523" duration="614000" />
+      <workItem from="1720390101421" duration="442000" />
+      <workItem from="1720390561356" duration="754000" />
+      <workItem from="1720391337897" duration="119000" />
+      <workItem from="1720391647113" duration="10094000" />
+      <workItem from="1720495789947" duration="12787000" />
+      <workItem from="1720568295195" duration="678000" />
+      <workItem from="1720575611642" duration="7501000" />
+      <workItem from="1720585229664" duration="8221000" />
+      <workItem from="1720700778728" duration="830000" />
+      <workItem from="1720822951718" duration="5888000" />
+      <workItem from="1720910950045" duration="11000" />
+      <workItem from="1721489004943" duration="2792000" />
+      <workItem from="1721831551879" duration="1985000" />
+      <workItem from="1721900202653" duration="3839000" />
+      <workItem from="1721910218374" duration="2448000" />
+      <workItem from="1721933629721" duration="1765000" />
+      <workItem from="1721937388100" duration="137000" />
+      <workItem from="1721940502031" duration="49000" />
+      <workItem from="1721991318636" duration="75000" />
+      <workItem from="1721991402049" duration="39000" />
+      <workItem from="1723552663250" duration="1220000" />
+      <workItem from="1723554583660" duration="1365000" />
+      <workItem from="1723557480320" duration="2297000" />
+      <workItem from="1723589130289" duration="1054000" />
+      <workItem from="1723594640402" duration="1173000" />
+      <workItem from="1723642907876" duration="642000" />
+      <workItem from="1723655324965" duration="4443000" />
+      <workItem from="1723669177766" duration="7370000" />
+      <workItem from="1723728205256" duration="1748000" />
+      <workItem from="1723788023013" duration="789000" />
+      <workItem from="1723978711647" duration="4669000" />
+      <workItem from="1723983672543" duration="8207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
